@@ -1,5 +1,10 @@
 # Paraíso theme for the Zed editor
 
+This theme is adapted to Zed from the [VS Code theme of the same name][vscode-theme], which in turn is based on the [TextMate theme][tm-theme] of the same name.
+
+[vscode-theme]: https://github.com/treffynnon/paraiso-dark-vscode-theme "Paraíso VS Code theme"
+[tm-theme]: https://github.com/idleberg/Paraiso.tmTheme "Paraíso TextMate theme"
+
 ## Screenshot
 
 ![Paraiso_dark](https://raw.githubusercontent.com/treffynnon/zed-Paraiso/main/assets/Paraiso_dark.webp)

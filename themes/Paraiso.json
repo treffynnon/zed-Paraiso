@@ -1,6 +1,6 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-  "author": "Simon Holywell",
+  "author": "Simon Holywell (based on a theme by Jan T. Sott)",
   "name": "Paraíso",
   "themes": [
     {

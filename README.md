@@ -1,5 +1,9 @@
 # Paraíso theme for the Zed editor
 
+## Screenshot
+
+![Paraiso_dark](https://raw.githubusercontent.com/treffynnon/zed-Paraiso/main/Paraiso_dark.png)
+
 ## Licence
 
 Licenced under the [Creative Commons Attribution-ShareAlike 3.0 Unported][licence] licence.

@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![Paraiso_dark](https://raw.githubusercontent.com/treffynnon/zed-Paraiso/main/assets/Paraiso_dark.png)
+![Paraiso_dark](https://raw.githubusercontent.com/treffynnon/zed-Paraiso/main/assets/Paraiso_dark.webp)
 
 ## Licence
 

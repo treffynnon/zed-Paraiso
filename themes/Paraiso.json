@@ -21,7 +21,7 @@
         // this is the background colour of panels at the top of the editor like search and replace etc
         "toolbar.background": "#2f1e2e",
         "scrollbar.track.background": "#2f1e2e",
-        "scrollbar_thumb.background": "#4f424c88",
+        "scrollbar.thumb.background": "#4f424c88",
         "scrollbar.thumb.hover_background": "#4f424cFF",
         "scrollbar.thumb.border": "#4f424c",
         // this is the bar at the bottom of the editor

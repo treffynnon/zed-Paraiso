@@ -31,6 +31,7 @@
         "editor.active_line.background": "#41323f",
         "editor.active_line_number": "#a39e9b",
         "editor.background": "#2f1e2e",
+        "editor.document_highlight.bracket_background": "#815ba445",
         "editor.document_highlight.read_background": "#4f424c",
         "editor.document_highlight.write_background": "#4f424c",
         "editor.foreground": "#a39e9b",

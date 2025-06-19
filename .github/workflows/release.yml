@@ -3,7 +3,7 @@ name: Release Zed Extension
 on:
   push:
     tags:
-      - '*.*.*'
+      - "*.*.*"
 
 jobs:
   release:
@@ -14,6 +14,12 @@ jobs:
         with:
           extension-name: paraiso
           push-to: treffynnon/zed-extensions
+          commit-message: |
+            Update {{extensionName}} to {{version}}
+
+            Release notes:
+
+            https://github.com/{{owner}}/{{repo}}/releases/tag/{{version}}
         env:
           # the personal access token should have "repo" & "workflow" scopes
           COMMITTER_TOKEN: ${{ secrets.COMMITTER_TOKEN }}
